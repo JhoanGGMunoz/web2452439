@@ -1,0 +1,16 @@
+*{
+margin: 0%;
+
+}
+
+header{
+background-color: aqua;
+height: 10vh;
+display: flex;
+justify-content: space-evenly;}
+main{
+background-color: blue;
+height: 80vh;}
+footer{
+background-color: blueviolet;
+height: 10vh;}
